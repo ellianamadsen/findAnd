@@ -1,0 +1,12 @@
+input {
+    height: 50px;
+    width: 500px;
+  }
+.btn {
+    height: 50px;
+    width: 70px;
+}
+
+body {
+  padding: 20px;
+}
